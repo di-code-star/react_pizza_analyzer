@@ -1,4 +1,3 @@
-import React from 'react'
 
 const OutputCard = ({ cardTitle, cardDetail, htmlPId }) => {
     return (
